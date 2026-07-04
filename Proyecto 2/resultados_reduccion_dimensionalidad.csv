@@ -1,0 +1,17 @@
+Metodo,Parametros,Tiempo_s,Varianza_retenida_%,Trustworthiness_k5,Trustworthiness_k10
+PCA,2D,0.0,67.1,0.863,0.867
+PCA,3D,0.0,76.7,0.942,0.939
+t-SNE,"2D, perplexity=5",6.26,-,0.993,0.982
+t-SNE,"3D, perplexity=5",14.68,-,0.995,0.987
+t-SNE,"2D, perplexity=10",5.08,-,0.994,0.986
+t-SNE,"3D, perplexity=10",16.01,-,0.996,0.99
+t-SNE,"2D, perplexity=30",7.2,-,0.993,0.987
+t-SNE,"3D, perplexity=30",22.29,-,0.996,0.992
+t-SNE,"2D, perplexity=50",8.14,-,0.992,0.985
+t-SNE,"3D, perplexity=50",23.8,-,0.996,0.993
+UMAP,"2D, n_neighbors=5",14.5,-,0.988,0.981
+UMAP,"3D, n_neighbors=5",5.34,-,0.992,0.984
+UMAP,"2D, n_neighbors=15",6.58,-,0.981,0.976
+UMAP,"3D, n_neighbors=15",6.9,-,0.99,0.985
+UMAP,"2D, n_neighbors=50",8.34,-,0.969,0.967
+UMAP,"3D, n_neighbors=50",7.83,-,0.985,0.982
